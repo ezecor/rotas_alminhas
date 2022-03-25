@@ -3332,6 +3332,7 @@
     <ele>0.0</ele>
     <name>Alminhas</name>
     <desc>&lt;img style="max-width:300px;" src="img/lousada19.png">Lugar de S. Fins, Avenida da Igreja &lt;a href="https://docs.google.com/document/d/e/2PACX-1vTCddol79lDH-DwPPr0zGmnz8kBgkYMxoZ-jVxZF2tBELLCgqhaVX8im_hyLNB1_8fdFsUiHluw0cuD/pub" target="_blank">Ver mais&lt;/a></desc>
+    <sym>alm</sym>
   </wpt>
   <wpt lat="41.298819" lon="-8.216547">
     <ele>0.0</ele>
