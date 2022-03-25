@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gpx creator="Esri" version="1.1" xalan="http://xml.apache.org/xalan" xmlns="http://www.topografix.com/GPX/1/1" xsi="http://www.w3.org/2001/XMLSchema-instance">
   <trk>
-    <name>CR1 - LOUSADA - ALMINHAS</name>
+    <name>ALMINHAS NO CR1-LOUSADA</name>
     <desc> </desc>
     <trkseg>
       <trkpt lat="41.27647123" lon="-8.275703294">
@@ -3146,12 +3146,12 @@
   </trk>
   <wpt lat="41.280089071" lon="-8.250940241">
     <ele>220.8</ele>
-    <name>Capela N. Sr� do Ros�rio</name>
+    <name>Capela N. Srª do Rosário</name>
     <desc> </desc>
   </wpt>
   <wpt lat="41.290691634" lon="-8.210159287">
     <ele>305.9</ele>
-    <name>Santu�rio da Sr� da Aparecida</name>
+    <name>Santuário da Srª da Aparecida</name>
     <desc> </desc>
   </wpt>
   <wpt lat="41.266894695" lon="-8.246305137">
